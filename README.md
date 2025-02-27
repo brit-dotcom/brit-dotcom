@@ -3,4 +3,4 @@
 <h2>👨‍💻 Statistical Analysis Projects:</h2>
 
 - <b>Regression Analysis on Graduate Admission (Statistics)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Doing Regression Analysis in RStudio]()
