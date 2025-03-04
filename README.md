@@ -3,4 +3,4 @@
 <h2>Statistical Analysis Projects:</h2>
 
 - <b>Regression Analysis on Graduate Admission (Statistics)</b>
-  - [Doing Regression Analysis in RStudio]("https://github.com/brit-dotcom/Regression_Analysis")
+  - [Doing Regression Analysis in RStudio](https://github.com/brit-dotcom/Regression_Analysis)
